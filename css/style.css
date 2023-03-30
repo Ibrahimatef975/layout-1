@@ -35,7 +35,7 @@
   justify-content: flex-end;
 }
 .header .links .icon span {
-  background-color: #283747;
+  background-color: red;
   margin-bottom: 5px;
   height: 2px;
 }
